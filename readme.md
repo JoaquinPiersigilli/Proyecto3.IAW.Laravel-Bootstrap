@@ -1,4 +1,7 @@
-LINK HEROKU: http://tg-laravel.herokuapp.com/
+LINK HEROKU: https://tg-laravel.herokuapp.com/
+Para entrar como administrador
+mail: admin@admin.com
+pass: admin1
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
